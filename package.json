@@ -1,0 +1,17 @@
+{
+  "name": "reports-generation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "pdfkit": "^0.15.0",
+    "xlsx": "^0.18.5"
+  }
+}
